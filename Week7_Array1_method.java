@@ -68,8 +68,8 @@ class Week7_Array1_method{
             height[i] = Double.parseDouble(inputUi("Height: "));
         }
     }
-    //---------------------Process-----------------------------------
 
+    //---------------------Process-----------------------------------
     void allCalculate(){
         calculateBmi();
         setSize();
